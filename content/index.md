@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: a new beginning
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+finally publicizing my five-year second brain.
+work in progress!
