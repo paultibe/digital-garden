@@ -1,0 +1,1 @@
+> Broad principles I think are important based on my [[Beliefs|beliefs]] that shape my [[Goals|goals]].
