@@ -1,0 +1,1 @@
+"It was great to have a co op who actually cared about doing the right thing." - mentor @ Copperleaf

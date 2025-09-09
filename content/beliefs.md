@@ -36,6 +36,7 @@ The “what” that is right will depend on your values, goals, priorities. Thus
 	* The planner thinks critically about what’s important across longer time frames like a week, a month, a year, and the doer follows the planner.
 	* The doer is action biased and doesn’t obsess over perfect action.
 	- The planner asks: “If this is the single most important thing I accomplish today, will I be satisfied”
+- Craft a life that has systems that continuously embed self-reflection in the day-to-day.
 
 > "Being selective is the path of the productive. Focus on the important few and ignore the rest." - Tim Ferris
 ## Don’t follow your passion, let it follow you. Passion is a side effect of mastery.
