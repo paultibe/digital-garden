@@ -2,7 +2,7 @@
 title: a new beginning
 ---
 
-Finally moving towards publishing my child: my five-year old second brain stored in Notion.
+Hi! Finally moving towards publishing my child: my five-year old second brain stored in Notion.
 
 As a starting point, check out what I call my **identity stack**. These are the core things that make up who I am and guide everything I do. They flow in this order:
 
